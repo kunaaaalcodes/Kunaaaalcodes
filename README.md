@@ -1,149 +1,185 @@
 <div align="center">
 
-# Hey, I'm Kunal Jaiswal 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1d1f,100:0071e3&height=220&section=header&text=Kunal%20Jaiswal&fontSize=52&fontColor=f5f5f7&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Backend%20&%20Distributed%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer · Backend-leaning · I fix bugs other people are scared to touch
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://kunal-portfolio-ahjx.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunaljaiswal7877)
-[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Kunal7895)
-[![Email](https://img.shields.io/badge/Email-say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalkunal786@gmail.com)
+<a href="https://github.com/Kunall7890">
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=650&lines=Building+production-grade+systems.;25%2B+merged+PRs+across+12%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
+</a>
 
 </div>
 
-<br>
+<br/>
 
-## ⚡ tl;dr
-
-- 🛠️ 1.5+ years shipping production apps at **The Boring Education** — LMS, DSA/interview prep platforms, CMS, auth systems
-- 🐛 Since Feb 2026, I've been full-time on open source — and I go straight for the hard, gnarly bugs
-- 🎯 Fixed a **TOCTOU race condition** in [activepieces](https://github.com/activepieces/activepieces) (YC-backed, production workflow engine) that could permanently freeze live workflows — merged after a 33-comment review
-- 🎯 Fixed a **request-body state contamination bug** in `labstack/echo`, a Go framework used in thousands of production services
-- 🏗️ Core collaborator on [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC) — designed and shipped a token/cost accounting engine, a plugin lifecycle system, and a git-backed team memory sync from scratch
-- 📈 25+ merged PRs across 12+ repos · GitHub Pull Shark 🦈 · 150+ LeetCode problems solved
-
-> I don't just fix the symptom. I go find the actual root cause — even in codebases I've never seen before.
-
-<br>
-
-## 🧠 What I actually do
-
-Most "full stack" profiles mean "I can center a div and hit an API." Here's the honest version:
-
-**Backend & systems** — REST API design, concurrent programming, database design, root-cause debugging in unfamiliar production codebases. I read stack traces for fun (mostly).
-
-**Frontend** — React, Next.js, TypeScript, Tailwind. I care about Lighthouse scores because slow apps lose users, not because a checklist told me to.
-
-**Open source** — this is where I actually prove it. Anyone can claim "strong problem-solving skills" on a resume. Merged PRs in a 16k-star Go framework and a YC-backed automation platform don't lie.
-
-<br>
-
-## 🚀 Projects worth clicking on
-
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 🚛 [ELD Trip Planner](https://github.com/Kunall7890/ELD-Trip_planner)
-FMCSA-compliant trip planning app for commercial drivers — route planning + Hours-of-Service compliance logic baked in.
-
-**Stack:** Django · React
-**Live:** [eld-trip-planner-xi.vercel.app](https://eld-trip-planner-xi.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Fig Pro
-Real-time collaborative canvas/design tool — think Figma's little sibling. WebSockets + delta-based state diffing so multiple people can draw on the same canvas without stepping on each other.
-
-**Stack:** Liveblocks · Fabric.js · WebSockets
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 ShopEase AI Support Agent
-E-commerce support chat widget powered by Groq/Llama, deployed end-to-end (Vercel + Render).
-
-**Repo:** [Kunall7890/Spur-chat](https://github.com/Kunall7890/Spur-chat)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ Pixora
-AI creative-generation pipeline — orchestrated agent workflow for generating and iterating on creative content at scale.
-
-**Stack:** FastAPI · LangGraph · Groq · Together AI · Celery/Redis
+## <img src="https://em-content.zobj.net/source/apple/391/glowing-star_1f31f.png" width="26"/>  Overview
 
 </td>
 </tr>
 </table>
 
-<br>
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 🔥 Open source: where I actually show up
+**1.5+ years** professional experience building scalable web platforms with **React, Next.js, Node.js, TypeScript & PostgreSQL** — architecting the systems behind an ed-tech platform used by thousands of learners.
 
-| Project | What I did |
-|---|---|
-| **activepieces/activepieces** | Diagnosed & fixed a production-critical TOCTOU race condition in the Call-Flow resume path |
-| **Fmarzochi/EGC** (core collaborator) | Built Budget Guardian (cost accounting engine), Plugin Registry & Lifecycle system, Git-backed Team Memory Sync — 10+ merged PRs |
-| **labstack/echo** | Fixed body-limit middleware state contamination affecting `limitedReader` |
-| **wasp-lang/wasp** | Dynamic import lowering fix, JSX head support, type narrowing |
-| **hatchet-dev/hatchet** | TanStack Router preload/sidebar fix, staleTime defense |
-| **freeCodeCamp** | Curriculum fixes |
+</td>
+<td width="50%" valign="top">
 
-I'm active in **GirlScript Summer of Code '25** and **Social Summer of Code '25**, working with distributed teams and owning issues end-to-end — from root-cause analysis to production merge.
+Since **Feb 2026**, focused on open source — resolving a **production race condition** in a YC-backed automation platform and a **middleware corruption bug** in a Go framework running in thousands of production services.
 
-<br>
+</td>
+</tr>
+</table>
+</div>
 
-## 🧰 Tech Stack
+<br/>
+
+<div align="center">
+
+### 📊 &nbsp;At a Glance
+
+<table>
+<tr>
+<td align="center"><b>25+</b><br/><sub>Merged PRs</sub></td>
+<td align="center"><b>12+</b><br/><sub>Repositories</sub></td>
+<td align="center"><b>150+</b><br/><sub>LeetCode Solved</sub></td>
+<td align="center"><b>1.5+ yrs</b><br/><sub>Professional Exp.</sub></td>
+<td align="center"><b>🦈</b><br/><sub>Pull Shark</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,100:e8e8ed&height=2&width=900" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://em-content.zobj.net/source/apple/391/hammer-and-wrench_1f6e0-fe0f.png" width="26"/>  Crafted With
+
+</div>
+
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,java,html,css&theme=dark" />
 
-**Frameworks**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<br/><br/>
 
-**Data**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Frameworks & Runtime**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,react,nextjs&theme=dark" />
 
-**Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<br/><br/>
 
-<br>
+**Data & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,docker,githubactions,vercel&theme=dark" />
 
-## 📊 GitHub Stats
+<br/><br/>
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kunall7890&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunall7890&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunall7890&theme=tokyonight&hide_border=true" />
+**Testing & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=jest,vitest,playwright,git,githubactions&theme=dark" />
 
 </div>
 
-<br>
-
-## 📫 Let's talk
-
-I'm always up for interesting backend/distributed-systems problems, open-source collaboration, or full-time roles where "root cause analysis" isn't just a resume buzzword.
-
-📧 **jaiswalkunal786@gmail.com** · 💼 [LinkedIn](https://linkedin.com/in/kunaljaiswal7877) · 🌐 [Portfolio](https://kunal-portfolio-ahjx.vercel.app)
+<br/>
 
 <div align="center">
-<sub>If it compiles, it's a coincidence. If it's tested, it's on purpose.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,100:e8e8ed&height=2&width=900" width="70%"/>
 </div>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://em-content.zobj.net/source/apple/391/open-book_1f4d6.png" width="26"/>  Open Source — Selected Work
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+**🧩 Core Contributor** &nbsp;·&nbsp; [`Fmarzochi/EGC`](https://github.com/Fmarzochi) &nbsp;<sub>TypeScript · Node.js · SQLite · Python</sub>
+> Designed **Budget Guardian**, a session-level token/cost accounting engine using interceptor-based instrumentation — plus a **Plugin Registry & Lifecycle system** for runtime plugin loading, and a **Git-backed Team Memory Sync** engine. 10+ merged PRs spanning backend, CLI & dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**⚙️ Contributor** &nbsp;·&nbsp; [`activepieces/activepieces`](https://github.com/activepieces/activepieces) &nbsp;<sub>YC-backed · TypeScript</sub>
+> Diagnosed and fixed a **TOCTOU race condition** in the Call-Flow wait-for-response resume path that could permanently pause production workflows — hardened through a 33-comment maintainer review.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🔧 Contributor** &nbsp;·&nbsp; [`labstack/echo`](https://github.com/labstack/echo) &nbsp;<sub>16k★ Go framework</sub>
+> Resolved a **middleware state-contamination bug** in the body-limit middleware, shipping to thousands of production services.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,100:e8e8ed&height=2&width=900" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://em-content.zobj.net/source/apple/391/bar-chart_1f4ca.png" width="26"/>  GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kunall7890&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=0071e3&icon_color=0071e3&text_color=c9d1d9&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunall7890&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0071e3&fire=0071e3&currStreakLabel=0071e3" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunall7890&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=0071e3&text_color=c9d1d9" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5f5f7,100:e8e8ed&height=2&width=900" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://em-content.zobj.net/source/apple/391/handshake_1f91d.png" width="26"/>  Let's Build Something
+
+<a href="mailto:jaiswalkunal786@gmail.com"><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=apple&logoColor=0071e3"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=0071e3"/></a>
+<a href="https://github.com/Kunall7890"><img src="https://img.shields.io/badge/GitHub-1d1d1f?style=for-the-badge&logo=github&logoColor=f5f5f7"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=for-the-badge&logo=safari&logoColor=0071e3"/></a>
+
+<br/><br/>
+
+<sub>Designed with intention. Built with precision.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071e3,100:1d1d1f&height=120&section=footer" width="100%"/>
