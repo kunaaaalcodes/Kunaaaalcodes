@@ -1,3 +1,7 @@
+
+## Overview
+
+
 <div align="center">
 
 <img
@@ -12,9 +16,7 @@
 
 </div>
 
-<br/><br/>
 
-## Overview
 
 I build scalable, production-grade software across the full stack, with a strong focus on backend systems, distributed architectures, and open source. Over the past 1.5+ years, I've built and shipped production applications using React, Next.js, Node.js, TypeScript, PostgreSQL, and Go, while contributing fixes and features to widely-used open-source projects.
 
