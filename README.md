@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=640&lines=Building+production-grade+systems.;25%2B+merged+PRs+across+12%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=640&lines=Building+production-grade+systems.;50%2B+merged+PRs+across+15%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
 
 </div>
 
@@ -16,15 +16,15 @@
 
 ## Overview
 
-I build scalable, production-grade software — from full-stack platforms serving thousands of users to backend fixes shipped into widely-used open-source infrastructure. **1.5+ years** of professional experience across the full stack: **React, Next.js, Node.js, TypeScript, PostgreSQL**.
+I build scalable, production-grade software across the full stack, with a strong focus on backend systems, distributed architectures, and open source. Over the past 1.5+ years, I've built and shipped production applications using React, Next.js, Node.js, TypeScript, PostgreSQL, and Go, while contributing fixes and features to widely-used open-source projects.
 
-Since **February 2026**, I've shifted focus toward open source — resolving a production race condition in a YC-backed automation platform, and a middleware corruption bug in a Go framework running across thousands of production services.
+Since February 2026, my primary focus has been open source, where I've resolved production-critical bugs, implemented backend infrastructure, and collaborated with maintainers across multiple large repositories through rigorous code reviews.
 
 <br/>
 
 <div align="center">
 
-**25+** merged PRs &nbsp;·&nbsp; **12+** repositories &nbsp;·&nbsp; **150+** LeetCode solved &nbsp;·&nbsp; **1.5+ yrs** professional experience &nbsp;·&nbsp; GitHub Pull Shark
+**🚀 50+ Merged Pull Requests** &nbsp;·&nbsp; **🌍 15+ Open Source Repositories** &nbsp;·&nbsp; **💻 150+ LeetCode Problems Solved** &nbsp;·&nbsp; **⚙️ 1.5+ Years Professional Experience**
 
 </div>
 
@@ -34,7 +34,11 @@ Since **February 2026**, I've shifted focus toward open source — resolving a p
 
 **Full Stack Developer** · The Boring Education · Remote &nbsp;<sub>Oct 2024 – Jan 2026</sub>
 
-Architected and shipped production REST APIs powering an ed-tech platform's LMS, coding-assessment, and dashboard modules. Built a full **Curriculum Management System** used by instructors to publish courses, quizzes, and certifications — cutting publishing time by 60%. Designed authentication, RBAC, and progress-tracking systems that lifted learner retention by 30%, while optimizing backend queries to cut API response times by 45%.
+Architected and shipped scalable REST APIs powering LMS, coding assessment, and analytics modules.
+Built a complete Curriculum Management System enabling instructors to manage courses, quizzes, certifications, and student progress.
+Designed secure authentication, RBAC, and progress-tracking services, increasing learner retention by 30%.
+Optimized database queries and backend services, reducing API response times by 45%.
+Collaborated with frontend and product teams to deliver production features used by thousands of learners.
 
 <br/><br/>
 
@@ -42,15 +46,20 @@ Architected and shipped production REST APIs powering an ed-tech platform's LMS,
 
 **Core Contributor** · [`Fmarzochi/EGC`](https://github.com/Fmarzochi) &nbsp;<sub>TypeScript · Node.js · SQLite · Python</sub>
 
-Designed **Budget Guardian**, a session-level token/cost accounting engine built on interceptor-based instrumentation — plus a **Plugin Registry & Lifecycle system** for runtime plugin loading, and a **Git-backed Team Memory Sync** engine for cross-teammate state. 10+ merged PRs spanning backend, CLI, and dashboard.
+Designed and implemented **Budget Guardian**, a session-level token and cost accounting engine.
+Built a dynamic **Plugin Registry & Lifecycle Management** system.
+Developed **Git-backed Team Memory Sync** for collaborative state sharing.
+Contributed 20+ merged PRs spanning backend infrastructure, CLI tooling, and dashboard features.
 
 **Contributor** · [`activepieces/activepieces`](https://github.com/activepieces/activepieces) &nbsp;<sub>YC-backed · TypeScript</sub>
 
-Diagnosed and fixed a **TOCTOU race condition** in the Call-Flow wait-for-response resume path that could permanently pause production workflows — hardened through a 33-comment maintainer review cycle.
+Resolved a production **TOCTOU race condition** affecting workflow execution.
+Worked through a 33-comment maintainer review, improving reliability for production automation.
 
 **Contributor** · [`labstack/echo`](https://github.com/labstack/echo) &nbsp;<sub>16k★ Go framework</sub>
 
-Resolved a **middleware state-contamination bug** in the body-limit middleware, shipping to thousands of production services.
+Fixed middleware state contamination in the **body-limit middleware**.
+Shipped a production fix to one of Go's most widely used web frameworks.
 
 <br/><br/>
 
@@ -63,7 +72,7 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 
 <br/><br/>
 
-<img src="hero-banner.gif" width="900" height="250" style="border-radius: 14px; display: block; margin: 0 auto; max-width: 100%;" alt="debugging at 2am" />
+<img src="hero-banner.gif" width="900" height="250" style="border-radius: 14px; display: block; margin: 0 auto; max-width: 100%;" alt="Entering my debugging arc." />
 
 </div>
 
@@ -89,7 +98,7 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 
 <br/><br/>
 
-<sub>Designed with intention. Built with precision.</sub>
+<sub>Building software that scales—from production systems to open source.</sub>
 
 </div>
 
