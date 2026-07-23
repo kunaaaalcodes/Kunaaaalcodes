@@ -82,6 +82,21 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 
 ---
 
+## Debugging Mode: On
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/TvhJueozRbYAAAAC/dungeong.gif" width="260"/>
+
+<br/>
+<sub>me, staring at a race condition at 2am</sub>
+
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 ## Let's Build Something
