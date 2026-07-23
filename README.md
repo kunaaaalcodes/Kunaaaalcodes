@@ -69,7 +69,6 @@ Shipped a production fix to one of Go's most widely used web frameworks.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kunaaaalcodes&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=0071e3&icon_color=0071e3&text_color=c9d1d9&rank_icon=github" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunaaaalcodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0071e3&fire=0071e3&currStreakLabel=0071e3" width="48%"/>
 
 <br/><br/>
