@@ -69,6 +69,10 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 <img src="https://github-readme-stats.vercel.app/api?username=Kunaaaalcodes&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=0071e3&icon_color=0071e3&text_color=c9d1d9&rank_icon=github" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunaaaalcodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0071e3&fire=0071e3&currStreakLabel=0071e3" width="48%"/>
 
+<br/><br/>
+
+<img src="hero-banner.gif" width="900" height="250" style="border-radius: 14px; display: block; margin: 0 auto; max-width: 100%;" alt="debugging at 2am" />
+
 </div>
 
 <br/>
@@ -81,21 +85,6 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 **Frameworks** — Node.js, Express, FastAPI, Django, Flask, React, Next.js  
 **Data & Infra** — PostgreSQL, MongoDB, Redis, SQLite, Docker, GitHub Actions, Vercel  
 **Testing** — Jest, Vitest, Playwright
-
-<br/>
-
----
-
-## Debugging Mode: On
-
-<div align="center">
-
-<img src="hero-banner.gif" width="900" height="250" style="border-radius: 14px; display: block; margin: 0 auto; max-width: 100%;" alt="debugging at 2am" />
-
-<br/>
-<sub>me, staring at a race condition at 2am</sub>
-
-</div>
 
 <br/>
 
