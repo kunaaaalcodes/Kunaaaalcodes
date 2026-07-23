@@ -10,8 +10,6 @@
   width="700"
 />
 
-<p style="font-family: 'SF Pro Display', -apple-system, sans-serif; font-size: 13px; color: #0071E3; letter-spacing: 3px; margin-top: 2px; font-weight: 500;">KAAA MEE HAAA MEE HAAAAA 🔥</p>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=640&lines=Building+production-grade+systems.;50%2B+merged+PRs+across+15%2B+repositories.;Contributing+to+opensource." />
