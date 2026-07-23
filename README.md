@@ -1,19 +1,3 @@
-<div align="center">
-
-<img
-  src="https://media1.tenor.com/m/TvhJueozRbYAAAAC/dungeong.gif"
-  alt="Goku Banner"
-  width="700"
-/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=640&lines=Building+production-grade+systems.;50%2B+merged+PRs+across+15%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
-
-</div>
-
-<br/><br/>
-
 ## Overview
 
 I build scalable, production-grade software across the full stack, with a strong focus on backend systems, distributed architectures, and open source. Over the past 1.5+ years, I've built and shipped production applications using React, Next.js, Node.js, TypeScript, PostgreSQL, and Go, while contributing fixes and features to widely-used open-source projects.
@@ -25,6 +9,22 @@ Since February 2026, my primary focus has been open source, where I've resolved 
 <div align="center">
 
 **50+ Merged PRs** &nbsp;·&nbsp; **15+ Repositories** &nbsp;·&nbsp; **Production Open Source Contributions** &nbsp;·&nbsp; **150+ LeetCode Solved** &nbsp;·&nbsp; **Backend-Focused Full Stack Engineer**
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img
+  src="https://media1.tenor.com/m/TvhJueozRbYAAAAC/dungeong.gif"
+  alt="Goku Banner"
+  width="700"
+/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=640&lines=Building+production-grade+systems.;50%2B+merged+PRs+across+15%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
 
 </div>
 
