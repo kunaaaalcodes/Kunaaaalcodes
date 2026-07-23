@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0071e3&height=280&section=header&text=Kunal%20Jaiswal&fontSize=50&fontColor=f5f5f7&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20Backend%20&%20Distributed%20Systems&descAlignY=58&descSize=17&animation=fadeIn" />
+<img
+  src="https://media1.tenor.com/m/TvhJueozRbYAAAAC/dungeong.gif"
+  alt="Goku Banner"
+  width="700"
+/>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=640&lines=Building+production-grade+systems.;25%2B+merged+PRs+across+12%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
 
