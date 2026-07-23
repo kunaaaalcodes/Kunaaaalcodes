@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0071e3&height=260&section=header&text=Kunal%20Jaiswal&fontSize=54&fontColor=f5f5f7&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20Backend%20&%20Distributed%20Systems&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0071e3&height=280&section=header&text=Kunal%20Jaiswal&fontSize=50&fontColor=f5f5f7&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20Backend%20&%20Distributed%20Systems&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=650&lines=Building+production-grade+systems.;25%2B+merged+PRs+across+12%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2600&pause=900&color=0071E3&center=true&vCenter=true&width=640&lines=Building+production-grade+systems.;25%2B+merged+PRs+across+12%2B+repositories.;Open+source%2C+by+choice+%E2%80%94+not+by+chance." />
 
 </div>
 
 <br/>
+
+---
 
 ## Overview
 
@@ -26,11 +28,7 @@ Since **February 2026**, I've shifted focus toward open source — resolving a p
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071e3,50:8ab4f8,100:0071e3&height=2&width=900" width="65%"/>
-</div>
-
-<br/>
+---
 
 ## Professional Experience
 
@@ -40,11 +38,7 @@ Architected and shipped production REST APIs powering an ed-tech platform's LMS,
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071e3,50:8ab4f8,100:0071e3&height=2&width=900" width="65%"/>
-</div>
-
-<br/>
+---
 
 ## Open Source — Selected Work
 
@@ -62,11 +56,7 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071e3,50:8ab4f8,100:0071e3&height=2&width=900" width="65%"/>
-</div>
-
-<br/>
+---
 
 ## GitHub Stats
 
@@ -79,35 +69,27 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071e3,50:8ab4f8,100:0071e3&height=2&width=900" width="65%"/>
-</div>
-
-<br/>
+---
 
 ## Stack
 
-Languages — Python, TypeScript, JavaScript, Go, Java, SQL
-Frameworks — Node.js, Express, FastAPI, Django, Flask, React, Next.js
-Data & Infra — PostgreSQL, MongoDB, Redis, SQLite, Docker, GitHub Actions, Vercel
-Testing — Jest, Vitest, Playwright
+**Languages** — Python, TypeScript, JavaScript, Go, Java, SQL  
+**Frameworks** — Node.js, Express, FastAPI, Django, Flask, React, Next.js  
+**Data & Infra** — PostgreSQL, MongoDB, Redis, SQLite, Docker, GitHub Actions, Vercel  
+**Testing** — Jest, Vitest, Playwright
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071e3,50:8ab4f8,100:0071e3&height=2&width=900" width="65%"/>
-</div>
-
-<br/>
+---
 
 <div align="center">
 
 ## Let's Build Something
 
-<a href="mailto:jaiswalkunal786@gmail.com"><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=apple&logoColor=0071e3"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=0071e3"/></a>
-<a href="https://github.com/Kunaaaalcodes"><img src="https://img.shields.io/badge/GitHub-1d1d1f?style=for-the-badge&logo=github&logoColor=f5f5f7"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=for-the-badge&logo=safari&logoColor=0071e3"/></a>
+<a href="mailto:jaiswalkunal786@gmail.com"><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=maildotru&logoColor=0071e3" /></a>
+<a href="https://www.linkedin.com/in/kunaljaiswal7877/"><img src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=0071e3" /></a>
+<a href="https://github.com/Kunaaaalcodes"><img src="https://img.shields.io/badge/GitHub-1d1d1f?style=for-the-badge&logo=github&logoColor=f5f5f7" /></a>
+<a href="https://kunal-portfolio-ahjx.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=for-the-badge&logo=safari&logoColor=0071e3" /></a>
 
 <br/><br/>
 
@@ -115,4 +97,4 @@ Testing — Jest, Vitest, Playwright
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0071e3,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0071e3,100:0d1117&height=120&section=footer" />
