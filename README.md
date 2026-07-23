@@ -90,7 +90,7 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 
 <div align="center">
 
-<img src="debugging.gif" width="320" alt="debugging at 2am" />
+<img src="hero-banner.gif" width="900" height="250" style="border-radius: 14px; display: block; margin: 0 auto; max-width: 100%;" alt="debugging at 2am" />
 
 <br/>
 <sub>me, staring at a race condition at 2am</sub>
