@@ -12,9 +12,7 @@
 
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 ## Overview
 
@@ -30,9 +28,7 @@ Since **February 2026**, I've shifted focus toward open source — resolving a p
 
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 ## Professional Experience
 
@@ -40,9 +36,7 @@ Since **February 2026**, I've shifted focus toward open source — resolving a p
 
 Architected and shipped production REST APIs powering an ed-tech platform's LMS, coding-assessment, and dashboard modules. Built a full **Curriculum Management System** used by instructors to publish courses, quizzes, and certifications — cutting publishing time by 60%. Designed authentication, RBAC, and progress-tracking systems that lifted learner retention by 30%, while optimizing backend queries to cut API response times by 45%.
 
-<br/>
-
----
+<br/><br/>
 
 ## Open Source — Selected Work
 
@@ -58,9 +52,7 @@ Diagnosed and fixed a **TOCTOU race condition** in the Call-Flow wait-for-respon
 
 Resolved a **middleware state-contamination bug** in the body-limit middleware, shipping to thousands of production services.
 
-<br/>
-
----
+<br/><br/>
 
 ## GitHub Stats
 
@@ -75,9 +67,7 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 ## Stack
 
@@ -86,9 +76,7 @@ Resolved a **middleware state-contamination bug** in the body-limit middleware, 
 **Data & Infra** — PostgreSQL, MongoDB, Redis, SQLite, Docker, GitHub Actions, Vercel  
 **Testing** — Jest, Vitest, Playwright
 
-<br/>
-
----
+<br/><br/>
 
 <div align="center">
 
