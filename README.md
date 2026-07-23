@@ -24,7 +24,7 @@ Since February 2026, my primary focus has been open source, where I've resolved 
 
 <div align="center">
 
-**🚀 50+ Merged Pull Requests** &nbsp;·&nbsp; **🌍 15+ Open Source Repositories** &nbsp;·&nbsp; **💻 150+ LeetCode Problems Solved** &nbsp;·&nbsp; **⚙️ 1.5+ Years Professional Experience**
+**50+ Merged PRs** &nbsp;·&nbsp; **15+ Repositories** &nbsp;·&nbsp; **Production Open Source Contributions** &nbsp;·&nbsp; **150+ LeetCode Solved** &nbsp;·&nbsp; **Backend-Focused Full Stack Engineer**
 
 </div>
 
