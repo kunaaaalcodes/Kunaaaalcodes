@@ -98,7 +98,7 @@ Shipped a production fix to one of Go's most widely used web frameworks.
 
 <br/><br/>
 
-<sub>Building software that scales—from production systems to open source.</sub>
+<sub>Designed with intention. Built with precision.</sub>
 
 </div>
 
