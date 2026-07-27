@@ -69,7 +69,7 @@ Shipped a production fix to one of Go's most widely used web frameworks.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Kunaaaalcodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0071e3&fire=0071e3&currStreakLabel=0071e3" width="48%"/>
+<img src="streak-stats.svg" width="48%"/>
 
 <br/><br/>
 
