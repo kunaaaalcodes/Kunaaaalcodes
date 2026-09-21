@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="https://media1.tenor.com/m/TvhJueozRbYAAAAC/dungeong.gif"
+  src="https://media.tenor.com/TvhJueozRbYAAAAC/dungeong.gif"
   alt="Goku Banner"
   width="700"
 />
@@ -73,7 +73,7 @@ Shipped a production fix to one of Go's most widely used web frameworks.
 
 <br/><br/>
 
-<img src="hero-banner.gif" width="900" height="250" style="border-radius: 14px; display: block; margin: 0 auto; max-width: 100%;" alt="Entering my debugging arc." />
+<img src="goku-gif-13.gif" width="900" height="250" style="border-radius: 14px; display: block; margin: 0 auto; max-width: 100%;" alt="Entering my debugging arc." />
 
 <p style="font-family: 'SF Pro Display', -apple-system, sans-serif; font-size: 13px; color: #0071E3; letter-spacing: 3px; margin-top: 2px; font-weight: 500;">KAAA MEE HAAA MEE HAAAAA 🔥</p>
 
